@@ -1,0 +1,5 @@
+{{#user}}
+Name: Harish
+Skills: React.js, Javascript, HTML, CSS, Basic bootstrap, GIT, Design patterns, Python, Django, Django Rest Framework, SQL
+Email: harishb167@gmail.com
+{{/user}}
